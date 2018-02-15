@@ -19,4 +19,4 @@ bot.in("message", async message => {
   if(message.)
 });
 
-bot.login(botSettings.token);
+bot.login(process.env.BOT_TOKEN);
