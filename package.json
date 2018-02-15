@@ -1,0 +1,11 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "Test Discord Bot",
+  "main": "bot.js",
+  "author": "PReiZ",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}
